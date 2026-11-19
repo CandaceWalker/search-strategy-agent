@@ -34,12 +34,6 @@ Give it notes on candidates the hiring manager liked and passed on. It finds wha
 - Never recommends collecting data in ways that break platform rules.
 - Uses plain English and explains technical terms.
 
-## Files
-| File | What it's for |
-|---|---|
-| [`agent-instructions.md`](agent-instructions.md) | Paste once into your Claude Project or Gemini Gem |
-| [`search-brief-template.md`](search-brief-template.md) | Templates for BUILD, DIAGNOSE, and CALIBRATE |
-| [`example-build.md`](example-build.md) | A sample BUILD request for a fictional company |
 
 ## Setup
 1. Create a **Claude Project** or **Gemini Gem**.
